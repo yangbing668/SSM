@@ -5,7 +5,7 @@
 	<artifactId>SSM</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SSM-Test2 Maven Webapp</name>
+	<name>SSM Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<!-- spring版本号 -->
