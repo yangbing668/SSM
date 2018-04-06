@@ -9,16 +9,16 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.alibaba.fastjson.JSON;
-import com.jxust.ssm.pojo.User;
-import com.jxust.ssm.service.UserService;
+import com.ynu.ssm.pojo.User;
+import com.ynu.ssm.service.UserService;
 
 @RunWith(SpringJUnit4ClassRunner.class) // 表示继承了SpringJUnit4ClassRunner类
 @ContextConfiguration(locations = { "classpath:spring-mybatis.xml" })
 /**
  * 测试spring整合mybatis spring方式
  * 
- * @author Peng
- * @Date2016年12月11日上午11:52:56
+ * @author
+ * @Date
  */
 public class TestMyBatis {
 	private static Logger logger = Logger.getLogger(TestMyBatis.class);

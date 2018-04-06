@@ -1,4 +1,4 @@
-package com.jxust.ssm.controller;
+package com.ynu.ssm.controller;
 
 import javax.annotation.Resource;
 
@@ -7,8 +7,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.jxust.ssm.pojo.User;
-import com.jxust.ssm.service.UserService;
+import com.ynu.ssm.pojo.User;
+import com.ynu.ssm.service.UserService;
 
 @Controller
 public class UserController {

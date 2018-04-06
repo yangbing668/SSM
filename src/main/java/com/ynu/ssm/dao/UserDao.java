@@ -1,6 +1,6 @@
-package com.jxust.ssm.dao;
+package com.ynu.ssm.dao;
 
-import com.jxust.ssm.pojo.User;
+import com.ynu.ssm.pojo.User;
 /**
  * User类Dao层接口
  * 

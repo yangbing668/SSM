@@ -5,12 +5,12 @@ import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.jxust.ssm.pojo.User;
-import com.jxust.ssm.service.UserService;
+import com.ynu.ssm.pojo.User;
+import com.ynu.ssm.service.UserService;
 /**
  * 测试spring整合mybatis 普通方式
- * @author Peng
- * @Date2016年12月11日上午11:52:11
+ * @author
+ * @Date
  */
 public class TestMyBatis2 {
 	

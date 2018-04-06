@@ -1,4 +1,4 @@
-package com.jxust.ssm.pojo;
+package com.ynu.ssm.pojo;
 /**
  * 用户实体类
  * 对应数据表tb_user

@@ -1,9 +1,9 @@
-package com.jxust.ssm.service;
+package com.ynu.ssm.service;
 
-import com.jxust.ssm.pojo.User;
+import com.ynu.ssm.pojo.User;
 /**
  * Service层接口
- * @author Pen
+ * @author 
  * @Date
  */
 public interface UserService {
